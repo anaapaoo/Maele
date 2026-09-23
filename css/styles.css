@@ -69,7 +69,7 @@ img { max-width: 100%; display: block; }
  color: var(--coral-dark);
  margin-bottom: .5rem;
 }
-.lead { font-size: 1.1rem; color: #55473f line-height: 1.6; }
+.lead { font-size: 1.1rem; color: #55473f; line-height: 1.6; }
 
 
 .tag {
